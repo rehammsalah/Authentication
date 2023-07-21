@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23498166260",
+    "project_id": "mali-gali-task1",
+    "storage_bucket": "mali-gali-task1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23498166260:android:02787971d5029663edb3a1",
+        "android_client_info": {
+          "package_name": "com.Abs.AI.authentication_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23498166260-5up3541in8b1ui318epl0gt6kuu25e2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTN_npOTEnR_LOLZ5W3YZPnxtPK1nrmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23498166260-5up3541in8b1ui318epl0gt6kuu25e2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
